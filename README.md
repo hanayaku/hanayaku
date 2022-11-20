@@ -19,7 +19,7 @@ a developer raising a cat.
 
 <details>
 <summary>:trophy: Github Stats</summary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanayaku&show_icons=true&theme=omni)
+![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanayaku&show_icons=true&theme=omni)
 <img src="https://github-profile-trophy.vercel.app/?username=hanayaku">
 </details>
 
